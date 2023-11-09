@@ -20,7 +20,7 @@ There is currently no user interface for rendering. Set up a scene programmatica
 
 ## Possible improvements
 
-* Spectral rendering
+* Spectral rendering and dispersion
 * On light bounces, instead of splatting a single line of light, compute a visibility cone of the scene from the collision point and draw the resulting shape
 * Use the GPU more effectively
 * Combine other sampling methods, like typical backwards ray tracing methods or photon mapping
